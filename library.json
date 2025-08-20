@@ -1,0 +1,17 @@
+[
+  {
+    "title": "dilay",
+    "author": "doğancı",
+    "isbn": "12345678"
+  },
+  {
+    "title": "string",
+    "author": "string",
+    "isbn": "9780140328721"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780061120084"
+  }
+]
